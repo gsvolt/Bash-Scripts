@@ -1,0 +1,3 @@
+rdpLinuxToWindows.sh
+ Simple bash script that will allow you to remote desktop into Windows 
+ machines.
